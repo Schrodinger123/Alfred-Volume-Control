@@ -1,5 +1,5 @@
 # Alfred-Volume-Control
-------
+
 An Alfred Workflow that adjust your System Volume.
 
 ##Dependencies
