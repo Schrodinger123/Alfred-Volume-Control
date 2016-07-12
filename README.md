@@ -13,7 +13,7 @@ An Alfred Workflow that adjust your System Volume.
 Just input "Volume Control.alfredworkflow" in your Alfred and press enter.
 
 * mute:  Mute your System.
-* setv {query}:  Set your System Volume. 100 for max,0 for minimum.
+* setv {query}:  Set your System Volume. 100 for maximum,0 for minimum.
 * getv:  Get you System Volume, and is it mute.
 
 ##Installation
