@@ -1,6 +1,6 @@
 # Alfred-Volume-Control
 
-An Alfred Workflow that adjust your System Volume.
+An Alfred Workflow that control your System Volume.
 
 ##Dependencies
 * [Alfred v3](https://www.alfredapp.com/)
